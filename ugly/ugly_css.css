@@ -1,0 +1,47 @@
+body,td,th {
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+}
+body {
+	background-color: #BDFF1A;
+	background-image: url(resources/background.gif);
+	background-repeat: repeat;
+}@charset "utf-8";
+body {
+	margin-top: 288px;
+	margin-left: 0px;
+	margin-bottom: 45px;
+
+
+
+
+
+
+
+
+	color: aqua
+	max-width: 1050px;
+	line-height: 1.4;
+	padding: 0 10px;
+	max-width: 648px;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	margin-right: auto;
+}
+.navbar {
+	background-color: #000000;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	color: #FFFFFF;
+	padding: 4px;
+	overflow: auto;
+	text-align: center;
+	text-decoration: none;
+	text-transform: none;
+}.th {
+	background-color: #F0FF00;
+	color: #FFFFFF;
+}
+.header {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	color: #FFFFFF;
+	text-decoration: overline line-through blink;
+	background-color: #FF0004;
+}

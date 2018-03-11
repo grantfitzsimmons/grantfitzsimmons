@@ -1,0 +1,47 @@
+@charset "utf-8";
+body {
+	margin: 45px auto;
+	max-width: 1050px;
+	line-height: 1.4;
+	padding: 0 10px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+.subtitle {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	text-decoration: none;
+	font-weight: lighter;
+	color:Black
+}
+.title {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-weight: bolder;
+	text-transform: capitalize;
+	position: inherit;
+	padding: 12px;
+	background-color:white
+}
+.subtext {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+
+.nav {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	background-color: #FE3D3D;
+	color: #FFFFFF;
+	padding: 12px;
+	overflow: auto;
+	text-align: auto;
+	text-decoration: none;
+	text-transform: none;
+    margin-top: 20px;
+    position: fixed;
+    top: 0;
+    width: 1050px;
+	
+}
+
+.navbar {
+	text-decoration: none;
+	text-transform: none;
+	color: white;
+}
